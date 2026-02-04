@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/luxury-auto-stock-analysis-lamborghini-1980-2025" target="_blank">
+    <img src="Lamborghini_Stock_Analysis.png" alt="Lamborghini Stock Analysis" width="500">
+  </a>
+</p>
+
 [project.md](https://github.com/user-attachments/files/24989787/project.md)
 # 🏎️ Lamborghini Stock Market Analysis: 45-Year Financial Performance Dataset (1980-2025)
 
